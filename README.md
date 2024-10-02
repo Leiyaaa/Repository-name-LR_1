@@ -1,5 +1,4 @@
-# Repository-name-LR_1
-Description – «Мій перший репозиторій»
+
 git init
 echo "# LR_1" >> README.md 
 git status
